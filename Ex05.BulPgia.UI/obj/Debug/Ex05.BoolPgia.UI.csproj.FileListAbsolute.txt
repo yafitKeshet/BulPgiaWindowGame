@@ -1,0 +1,17 @@
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.csprojAssemblyReference.cache
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.BoardForm.resources
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.ColorsForm.resources
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.InvalidChooseOfColor.resources
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BulPgia.UI.Properties.Resources.resources
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.SetupForm.resources
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.csproj.GenerateResource.cache
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Ex05.BulPgia.UI.exe.config
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Ex05.BulPgia.UI.exe
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Ex05.BulPgia.UI.pdb
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Program.dll
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Program.pdb
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\bin\Debug\Program.dll.config
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BoolPgia.UI.csproj.CopyComplete
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BulPgia.UI.exe
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Ex05.BulPgia.UI\obj\Debug\Ex05.BulPgia.UI.pdb

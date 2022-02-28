@@ -1,0 +1,8 @@
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\obj\Debug\Ex05.BoolPgia.Logic.csprojAssemblyReference.cache
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\bin\Debug\Program.dll.config
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\bin\Debug\Program.dll
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\bin\Debug\Program.pdb
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\obj\Debug\Ex05.BoolPgia.Logic.csproj.CopyComplete
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\obj\Debug\Program.dll
+C:\Users\Yafit\Desktop\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\A22 Ex05 YafitMizrahi 318861960 LonnieBerry 316223411\Program\obj\Debug\Program.pdb
